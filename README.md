@@ -10,7 +10,6 @@ While we recommend using the `ionic` utility to create new Ionic projects, you c
 To use this project as is, first clone the repo from GitHub, then run:
 
 ```bash
-$ cd ionic-app-base
 $ sudo npm install -g cordova ionic gulp
 $ npm install
 $ gulp init
